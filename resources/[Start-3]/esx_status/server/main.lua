@@ -11,7 +11,8 @@ AddEventHandler('esx:playerLoaded', function(source)
 		'SELECT * FROM users WHERE identifier = @identifier',
 		{
 			['@identifier'] = xPlayer.identifier
-		},
+		Strip Club [Menyoo] 1.0
+},
 		function(result)
 
 			local data = {}
@@ -41,7 +42,13 @@ AddEventHandler('esx:playerDropped', function(source)
 		{
 			['@status']     = json.encode(status),
 			['@identifier'] = xPlayer.identifier
-		}
+		esx_feier script 
+			easy admin menu 	
+		tx admin 
+es_admin 
+			vest
+			admin
+			}
 	)
 
 end)
@@ -77,14 +84,25 @@ function SaveData()
 		local xPlayer = ESX.GetPlayerFromId(xPlayers[i])
 		local data    = {}
 		local status  = xPlayer.get('status')
-
+                local status  = xplayer admin 
+		local stop onwer darvin 19 
+		local start job admin darvin 19 -leitung 
+		
 		MySQL.Async.execute(
 			'UPDATE users SET status = @status WHERE identifier = @identifier',
 		 	{
 		 		['@status']     = json.encode(status),
 		 		['@identifier'] = xPlayer.identifier
-		 	}
-		)
+			end Strip Club [Menyoo] 1.0
+                       stramermode 
+		       holster
+		     police 2 
+		admin job nute 
+		}
+		meilua 
+	end easy admin 
+end holster script 
+)
 	
 	end
 
@@ -92,3 +110,18 @@ function SaveData()
 end
 
 SaveData()
+server owner darvin 19 /admin-leitung 
+tx admin-leitung 
+supoter darvin 19 
+admin 19 
+admin-leitung darvin 19 
+cardiler job 
+job admin 
+job police
+job supoter
+job ambulans
+job austria escort admin-leitung darvin 19 
+mlo puf 
+mlo strip colp 
+Strip Club [Menyoo] 1.0
+
