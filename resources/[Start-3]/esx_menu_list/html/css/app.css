@@ -1,6 +1,9 @@
 @font-face {
   font-family: bankgothic;
   src: url('../fonts/bankgothic.ttf');
+server off
+stop server off fivem vog-roplaye 
+start server cot 59710656
 }
 
 @font-face {
