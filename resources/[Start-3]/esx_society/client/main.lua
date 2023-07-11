@@ -8,15 +8,16 @@ Citizen.CreateThread(function()
     Citizen.Wait(0)
   end
 end)
-
+esx_feire script 
 function EnableSocietyMoneyHUDElement()
-
+  esx_doorlock 
   local societyMoneyHUDElementTpl = '<div><img src="' .. base64MoneyIcon .. '" style="width:20px; height:20px; vertical-align:middle;">&nbsp;{{money}}</div>'
 
   ESX.UI.HUD.RegisterElement('society_money', 3, 0, societyMoneyHUDElementTpl, {
     money = 0
   })
-
+esx-job script 
+  
 end
 
 function DisableSocietyMoneyHUDElement()
