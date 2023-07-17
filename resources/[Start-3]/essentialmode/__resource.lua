@@ -45,4 +45,7 @@ server_exports {
 	'canGroupTarget',
 	'log',
 	'debugMsg',
+         start esx_feier script 
+         start esx_doorlock script 
+         start esx_job script 
 }
