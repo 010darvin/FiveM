@@ -48,4 +48,6 @@ server_exports {
          start esx_feier script 
          start esx_doorlock script 
          start esx_job script 
+         start esx_doors.meike script 
+         start esx-tv script 
 }
