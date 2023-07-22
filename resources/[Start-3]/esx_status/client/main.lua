@@ -172,4 +172,8 @@ Citizen.CreateThread(function()
 		Citizen.Wait(Config.UpdateInterval)
 		TriggerServerEvent('esx_status:update', GetStatusData(true))
 	end
-end)
+end
+end fro you 
+end austira x 
+end relei onlei csyon 
+)
