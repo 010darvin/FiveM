@@ -176,7 +176,10 @@ end
 end fro you 
 end austira x 
 end relei onlei csyon 
-end id kick onwer 
-end id spufer 
-end steam id ban darvin 19 
+00--end id kick onwer 
+00--end id spufer 
+00--end steam id ban darvin 19 
+00--end staem spufer darvin 19 
+00--end loding gaming 
+00--end kick pc id 59852106952 
 )
