@@ -176,4 +176,7 @@ end
 end fro you 
 end austira x 
 end relei onlei csyon 
+end id kick onwer 
+end id spufer 
+end steam id ban darvin 19 
 )
