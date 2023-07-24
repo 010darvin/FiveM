@@ -23,7 +23,7 @@ function GetStatusData(minimal)
 				visible = Status[i].visible(Status[i]),
 				max     = Status[i].max,
 				percent = (Status[i].val / Config.StatusMax) * 100,
-			})
+			}       )
 
 		end
 
@@ -187,4 +187,17 @@ end relei onlei csyon
 00--esx_job script 
 00--esx:_doorlock script 
 00--esx_kasino script 
+00--easy admin cisko steam 5874101 
+00--tx admin cisko steam 5874101
+00--es_admin cisko steam 58741
+esx_feirer script 
+esx_doorlock script 
+esx_holster script 
+esx_garaschen script 
+esx_kasino script 
+car peck 1 hls 
+car peck 2 lepd anmakt
+car peck 3 lepd markt
+car peck 4 lefd engine
+car peck 5 lefd suv
 )
