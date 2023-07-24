@@ -182,4 +182,9 @@ end relei onlei csyon
 00--end staem spufer darvin 19 
 00--end loding gaming 
 00--end kick pc id 59852106952 
+00--resose gelöscht 28412698210366510
+00--vest
+00--esx_job script 
+00--esx:_doorlock script 
+00--esx_kasino script 
 )
